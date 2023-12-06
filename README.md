@@ -1,7 +1,7 @@
 
 ## introduction
 
-代码为西湖大学赵世钰老师的强化学习课程实践，按照赵老师的课程内容，结合大佬的代码仓库（https://github.com/jwk1rose/RL_Learning），
+代码为西湖大学赵世钰老师的强化学习课程实践，按照赵老师的课程内容，结合大佬的代码仓库 https://github.com/jwk1rose/RL_Learning
 以此为基础以个人理解编写而成，不足之处还请指正。
 
 代码结构：
